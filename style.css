@@ -1,7 +1,31 @@
 h6{
 font-size: 24px;
 }
-a{
-    text-decoration: none;
-    color: black;
+
+img{
+    width: 300;
+    height: 200;
+}
+
+div{
+    background-color: aqua;
+}
+
+.firstDiv{
+    background-color: blueviolet;
+}
+
+.Abshir{
+    background-color: aquamarine;
+}
+
+h1{
+    font-style: italic;
+font-family: cursive;
+}
+#title{
+    font-style:normal ;
+    font-size: 86px;
+    font-family: 'Courier New', Courier, monospace;
+
 }
